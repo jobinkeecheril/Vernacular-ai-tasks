@@ -40,7 +40,7 @@ task1               latest              94b1b98a488b        42 minutes ago      
 docker.io/ubuntu    16.04               9499db781771        2 weeks ago         131 MB
 ```
 
-Step 6: Run the docker container using the task1 docker image
+Step 6: Run the docker container using the task1 docker image to launch the container as bash
 
 ```[root@server docker]# docker run -it task1```
 
